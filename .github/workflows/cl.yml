@@ -28,7 +28,3 @@ jobs:
           }
  
           Write-Host "Project files checked successfully!"
-
-
-
-          
